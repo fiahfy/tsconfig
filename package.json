@@ -1,0 +1,29 @@
+{
+  "name": "@fiahfy/tsconfig",
+  "description": "My TSConfig.",
+  "version": "0.0.0",
+  "author": {
+    "name": "fiahfy",
+    "email": "d.fiahfy@gmail.com",
+    "url": "https://fiahfy.github.io/"
+  },
+  "bugs": {
+    "url": "https://github.com/fiahfy/tsconfig/issues"
+  },
+  "files": [
+    "tsconfig.json"
+  ],
+  "homepage": "https://github.com/fiahfy/tsconfig",
+  "keywords": [
+    "tsconfig"
+  ],
+  "license": "MIT",
+  "main": "tsconfig.json",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fiahfy/tsconfig.git"
+  }
+}

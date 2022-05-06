@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    // Type Checking
+    "strict": true,
+    // Modules
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    // Interop Constraints
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}
