@@ -31,6 +31,6 @@
     "url": "git+https://github.com/fiahfy/tsconfig.git"
   },
   "scripts": {
-    "lint": "prettier -c --ignore-path .gitignore ."
+    "format": "prettier -c --ignore-path .gitignore ."
   }
 }
